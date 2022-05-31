@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "rollup-pluginutils": "^2.4.1",
-    "sass": "^1.38.1"
+    "sass": "^1"
   }
 }
